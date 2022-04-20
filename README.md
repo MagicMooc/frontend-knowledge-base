@@ -6,7 +6,7 @@ Hey!This is [MagicMooc](https://github.com/MagicMooc)！我来自于安徽农业
 
 ✉️Email: riyingxiaozi@gmail.com
 
-🖥Github: riyingxiaozi@gmail.com
+🖥Github: [MagicMooc](https://github.com/MagicMooc)
 
 欢迎学习~
 
