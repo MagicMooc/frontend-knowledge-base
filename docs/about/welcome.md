@@ -2,7 +2,7 @@
 
 > 开源文档技术指导 @[`VuePress` ](https://vuepress.vuejs.org/zh/guide/getting-started.html)& [讶羽大大的blog](https://github.com/mqyqingfeng/Blog/issues/235)
 
-Hey!This is [MagicMooc](https://github.com/MagicMooc)！我来自于国内某普通高校，目前研二，正在全力准备秋招，正在努力构建自己的知识体系&提升编码能力&适应职场节奏!
+Hey!This is [MagicMooc](https://github.com/MagicMooc)！我来自于安徽农业大学23届计算机学院，目前研二，正在全力准备秋招，正在努力构建自己的知识体系&提升编码能力&适应职场节奏!
 
 ✉️Email: riyingxiaozi@gmail.com
 
